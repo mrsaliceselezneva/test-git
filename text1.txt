@@ -1,2 +1,3 @@
 First line before init in text1
 Second line in branch artyom
+Third line
